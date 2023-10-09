@@ -1,0 +1,1 @@
+aws_lambda.py - Here .py file is added in which i have passed the ssm parameter ('external-api-url') .Also I have created an IAM Role named "my_para_lambda-role-thgt4fds".Below attaching the screenshots for better understanding.
